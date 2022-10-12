@@ -2865,8 +2865,8 @@
                 <v>bcb2291a-d65a-431e-b624-fc9ed01722cd</v>
                 <v>ContainsPoint</v>
                 <v>d53cef83-27fe-43dc-a0ce-f59d944e2f06</v>
-                <v>HasInputAccess</v>
-                <v>a60ebf7c-56a2-4056-b7d3-2547ac9e3fba</v>
+                <v>SetStaticState</v>
+                <v>86a9b9e5-4af9-467e-adeb-53f93204817e</v>
                 <v>HasInputAccessIntern</v>
                 <v>38016737-ff08-4b60-a552-8e3cc331b5e6</v>
                 <v>GetTooltip</v>
@@ -2885,8 +2885,6 @@
                 <v>d631afee-4e75-4588-b4a6-12b36b2a583d</v>
                 <v>SetClientData</v>
                 <v>913fb72b-cad8-4cd6-adfa-2df755161c2a</v>
-                <v>HasVisibilityAccessIntern</v>
-                <v>10a30b69-8c1e-4d55-bf86-36d62e0754d0</v>
                 <v>GetInstance</v>
                 <v>854d796e-2f39-4142-9617-9738240f52f2</v>
                 <v>GetClientData</v>
@@ -2905,12 +2903,14 @@
                 <v>899e6ca0-8634-4fae-84de-43bf97b715ce</v>
                 <v>Initialize</v>
                 <v>0460ae44-2589-4fca-a438-26f75d285881</v>
-                <v>Destruct</v>
-                <v>4ad39a2d-57a6-43df-95a3-d8a24dec486e</v>
-                <v>SetStaticState</v>
-                <v>86a9b9e5-4af9-467e-adeb-53f93204817e</v>
+                <v>HasInputAccess</v>
+                <v>a60ebf7c-56a2-4056-b7d3-2547ac9e3fba</v>
+                <v>HasVisibilityAccessIntern</v>
+                <v>10a30b69-8c1e-4d55-bf86-36d62e0754d0</v>
                 <v>GetSurroundingRect</v>
                 <v>1e9ac463-a3ac-476e-be63-cab9d07eecad</v>
+                <v>ElementInfo</v>
+                <v>9a4e1f5b-71f7-465a-bf36-f5bb0148a8cf</v>
                 <v>GetResult</v>
                 <v>07332600-e114-41c7-a799-bd7586875386</v>
                 <v>GetLocalUsergroup</v>
@@ -2933,8 +2933,8 @@
                 <v>cc13238a-afd4-4c92-a0f1-6949d08bf3ad</v>
                 <v>HandleInput</v>
                 <v>89767d33-efc6-4ddd-8d9e-5d41197c7767</v>
-                <v>ElementInfo</v>
-                <v>9a4e1f5b-71f7-465a-bf36-f5bb0148a8cf</v>
+                <v>Destruct</v>
+                <v>4ad39a2d-57a6-43df-95a3-d8a24dec486e</v>
               </d>
               <v n="FbName">"NotImportant"</v>
               <v n="FbGuid">{89bb90e2-9c1d-4ce2-a69d-bca2bc910bfb}</v>
@@ -2994,7 +2994,7 @@
             </o>
             <v n="DialogDut">{7ef4632e-72ec-41b5-b35b-5e258e3a52d1}</v>
           </o>
-          <v n="LastUsedIdForIdentifier">33</v>
+          <v n="LastUsedIdForIdentifier">35</v>
           <o n="TextDocument" t="TextDocument">
             <a n="TextLines" cet="TextLine">
               <o>
